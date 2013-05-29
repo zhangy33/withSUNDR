@@ -1,0 +1,8 @@
+serverAdd: 192.168.0.1
+minClients: 10
+maxClients: 30
+incClients: 10
+writesNum: 2
+readsNum: 2
+runsNum: 3
+protocols: SUNDR,SUNDR
